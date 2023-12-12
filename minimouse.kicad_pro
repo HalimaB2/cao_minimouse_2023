@@ -413,10 +413,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "minimouse"
+      "minimouse",
+      "connecteur 62201021121"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "conecteur 62201021121"
     ]
   },
   "meta": {
